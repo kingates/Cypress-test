@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Test case</a> &#xa0; | &#xa0;
+  <a href="#sparkles-test-case">Test case</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/kingates" target="_blank">Author</a>
@@ -22,7 +22,6 @@ This is a repository created for the recruitment process. I created two tests, o
 
 
 ![test](https://user-images.githubusercontent.com/29677939/137642536-24dbc38f-03dd-4bad-837d-bd2de43c08ea.PNG)
-
 <br>
 
 ## :sparkles: Test case ##
