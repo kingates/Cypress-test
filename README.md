@@ -2,10 +2,6 @@
 
 <p align="center">
   <img alt="Cypress test" src="https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/simple/iachi5&style=flat&logo=cypress">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/cypress-test?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/cypress-test?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/cypress-test?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/cypress-test?color=56BEB8">
 </p>
 
 <br>
@@ -15,7 +11,7 @@
   <a href="#sparkles-features">Test case</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/kingates" target="_blank">Author</a>
 </p>
 
 <br>
@@ -23,6 +19,9 @@
 ## :dart: About ##
 
 This is a repository created for the recruitment process. I created two tests, one basic and one that repeats the same scenario without opening a new tab.
+
+
+![test](https://user-images.githubusercontent.com/29677939/137642536-24dbc38f-03dd-4bad-837d-bd2de43c08ea.PNG)
 
 <br>
 
@@ -52,7 +51,7 @@ The following tools were used in this project:
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made by <a href="https://github.com/kingates" target="_blank">Kinga TT</a>
 
 &#xa0;
 
